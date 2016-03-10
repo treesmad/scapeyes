@@ -1,0 +1,3942 @@
+{
+	"items": [
+		{
+			"id": 0,
+			"name": "Dwarf remains"
+		},
+		{
+			"id": 1,
+			"name": "Tool kit"
+		},
+		{
+			"id": 2,
+			"name": "Cannonball"
+		},
+		{
+			"id": 3,
+			"name": "Nulodians notes"
+		},
+		{
+			"id": 4,
+			"name": "Ammo mould"
+		},
+		{
+			"id": 5,
+			"name": "Instruction manual"
+		},
+		{
+			"id": 6,
+			"name": "Cannon base",
+			"flags": [true, false, false]
+		},
+		{
+			"id": 7,
+			"name": "Cannon base"
+		},
+		{
+			"id": 8,
+			"name": "Cannon stand",
+			"flags": [true, false, false]
+		},
+		{
+			"id": 9,
+			"name": "Cannon stand"
+		},
+		{
+			"id": 10,
+			"name": "Cannon barrels",
+			"flags": [true, false, false]
+		},
+		{
+			"id": 11,
+			"name": "Cannon barrels"
+		},
+		{
+			"id": 12,
+			"name": "Cannon furnace",
+			"flags": [true, false, false]
+		},
+		{
+			"id": 13,
+			"name": "Cannon furnace"
+		},
+		{
+			"id": 14,
+			"name": "Railing"
+		},
+		{
+			"id": 15,
+			"name": "Holy table napkin"
+		},
+		{
+			"id": 16,
+			"name": "Magic whistle"
+		},
+		{
+			"id": 17,
+			"name": "Grail bell"
+		},
+		{
+			"id": 18,
+			"name": "Magic gold feather"
+		},
+		{
+			"id": 19,
+			"name": "Holy grail"
+		},
+		{
+			"id": 20,
+			"name": "Cog"
+		},
+		{
+			"id": 21,
+			"name": "Cog"
+		},
+		{
+			"id": 22,
+			"name": "Cog"
+		},
+		{
+			"id": 23,
+			"name": "Cog"
+		},
+		{
+			"id": 24,
+			"name": "Cog"
+		},
+		{
+			"id": 25,
+			"name": "Red vine worm",
+			"flags": [false, true, true]
+		},
+		{
+			"id": 26,
+			"name": "Fishing trophy"
+		},
+		{
+			"id": 27,
+			"name": "Fishing pass"
+		},
+		{
+			"id": 28,
+			"name": "Insect repellent",
+			"flags": [true, false, false]
+		},
+		{
+			"id": 29,
+			"name": "Insect repellent"
+		},
+		{
+			"id": 30,
+			"name": "Bucket of wax",
+			"flags": [true, false, false]
+		},
+		{
+			"id": 31,
+			"name": "Bucket of wax"
+		},
+		{
+			"id": 32,
+			"name": "Lit black candle",
+			"flags": [false, true, false]
+		},
+		{
+			"id": 33,
+			"name": "Lit candle"
+		},
+		{
+			"id": 34,
+			"name": "Lit candle",
+			"flags": [false, true, false]
+		},
+		{
+			"id": 35,
+			"name": "Excalibur"
+		},
+		{
+			"id": 36,
+			"name": "Candle",
+			"flags": [true, false, false]
+		},
+		{
+			"id": 37,
+			"name": "Candle"
+		},
+		{
+			"id": 38,
+			"name": "Black candle"
+		},
+		{
+			"id": 39,
+			"name": "Bronze arrowtips",
+			"value": 10,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 40,
+			"name": "Iron arrowtips",
+			"value": 25,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 41,
+			"name": "Steel arrowtips",
+			"value": 35,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 42,
+			"name": "Mithril arrowtips",
+			"value": 67,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 43,
+			"name": "Adamant arrowtips",
+			"value": 160,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 44,
+			"name": "Rune arrowtips",
+			"value": 460,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 45,
+			"name": "Opal bolttips",
+			"flags": [false, true, true]
+		},
+		{
+			"id": 46,
+			"name": "Pearl bolttips",
+			"flags": [false, true, true]
+		},
+		{
+			"id": 47,
+			"name": "Barb bolttips",
+			"flags": [false, true, true]
+		},
+		{
+			"id": 48,
+			"name": "Longbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 49,
+			"name": "Longbow (u)"
+		},
+		{
+			"id": 50,
+			"name": "Shortbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 51,
+			"name": "Shortbow (u)"
+		},
+		{
+			"id": 52,
+			"name": "Arrow shaft"
+		},
+		{
+			"id": 53,
+			"name": "Headless arrow"
+		},
+		{
+			"id": 54,
+			"name": "Oak shortbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 55,
+			"name": "Oak shortbow (u)"
+		},
+		{
+			"id": 56,
+			"name": "Oak longbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 57,
+			"name": "Oak longbow (u)"
+		},
+		{
+			"id": 58,
+			"name": "Willow longbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 59,
+			"name": "Willow longbow (u)"
+		},
+		{
+			"id": 60,
+			"name": "Willow shortbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 61,
+			"name": "Willow shortbow (u)"
+		},
+		{
+			"id": 62,
+			"name": "Maple longbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 63,
+			"name": "Maple longbow (u)"
+		},
+		{
+			"id": 64,
+			"name": "Maple shortbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 65,
+			"name": "Maple shortbow (u)"
+		},
+		{
+			"id": 66,
+			"name": "Yew longbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 67,
+			"name": "Yew longbow (u)"
+		},
+		{
+			"id": 68,
+			"name": "Yew shortbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 69,
+			"name": "Yew shortbow (u)"
+		},
+		{
+			"id": 70,
+			"name": "Magic longbow (u)",
+			"weight": 0.9,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 71,
+			"name": "Magic longbow (u)"
+		},
+		{
+			"id": 72,
+			"name": "Magic shortbow (u)",
+			"weight": 0.9,
+			"value": 800,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 73,
+			"name": "Magic shortbow (u)"
+		},
+		{
+			"id": 74,
+			"name": "Khazard helmet"
+		},
+		{
+			"id": 75,
+			"name": "Khazard armour"
+		},
+		{
+			"id": 76,
+			"name": "Khazard cell keys"
+		},
+		{
+			"id": 77,
+			"name": "Khali brew"
+		},
+		{
+			"id": 78,
+			"name": "Ice arrows",
+			"flags": [false, true, false]
+		},
+		{
+			"id": 83,
+			"name": "Lever"
+		},
+		{
+			"id": 84,
+			"name": "Staff of armadyl"
+		},
+		{
+			"id": 85,
+			"name": "Shiny key"
+		},
+		{
+			"id": 86,
+			"name": "Pendant of lucien"
+		},
+		{
+			"id": 87,
+			"name": "Armadyl pendant"
+		},
+		{
+			"id": 88,
+			"name": "Boots of lightness",
+			"weight": 0.3,
+			"weightEq": -4.5,
+			"value": 6,
+			"bonuses": [0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0]
+		},
+		{
+			"id": 89,
+			"name": "Boots of lightness",
+			"weight": 0.3,
+			"weightEq": -4.5,
+			"value": 6,
+			"bonuses": [0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0]
+		},
+		{
+			"id": 90,
+			"name": "Childs blanket"
+		},
+		{
+			"id": 91,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 92,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 93,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 94,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 95,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 96,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 97,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 98,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 99,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 100,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 101,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 102,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 103,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 104,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 105,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 106,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 107,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 108,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 109,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 110,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 111,
+			"name": "Unfinished potion",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 112,
+			"name": "Unfinished potion"
+		},
+		{
+			"id": 113,
+			"name": "Strength potion(4)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 114,
+			"name": "Strength potion(4)"
+		},
+		{
+			"id": 115,
+			"name": "Strength potion(3)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 116,
+			"name": "Strength potion(3)"
+		},
+		{
+			"id": 117,
+			"name": "Strength potion(2)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 118,
+			"name": "Strength potion(2)"
+		},
+		{
+			"id": 119,
+			"name": "Strength potion(1)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 120,
+			"name": "Strength potion(1)"
+		},
+		{
+			"id": 121,
+			"name": "Attack potion(3)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 122,
+			"name": "Attack potion(3)"
+		},
+		{
+			"id": 123,
+			"name": "Attack potion(2)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 124,
+			"name": "Attack potion(2)"
+		},
+		{
+			"id": 125,
+			"name": "Attack potion(1)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 126,
+			"name": "Attack potion(1)"
+		},
+		{
+			"id": 133,
+			"name": "Defence potion(3)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 134,
+			"name": "Defence potion(3)"
+		},
+		{
+			"id": 135,
+			"name": "Defence potion(2)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 136,
+			"name": "Defence potion(2)"
+		},
+		{
+			"id": 137,
+			"name": "Defence potion(1)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 138,
+			"name": "Defence potion(1)"
+		},
+		{
+			"id": 139,
+			"name": "Prayer potion(3)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 140,
+			"name": "Prayer potion(3)"
+		},
+		{
+			"id": 141,
+			"name": "Prayer potion(2)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 142,
+			"name": "Prayer potion(2)"
+		},
+		{
+			"id": 143,
+			"name": "Prayer potion(1)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 144,
+			"name": "Prayer potion(1)"
+		},
+		{
+			"id": 145,
+			"name": "Super attack(3)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 146,
+			"name": "Super attack(3)"
+		},
+		{
+			"id": 147,
+			"name": "Super attack(2)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 148,
+			"name": "Super attack(2)"
+		},
+		{
+			"id": 149,
+			"name": "Super attack(1)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 150,
+			"name": "Super attack(1)"
+		},
+		{
+			"id": 157,
+			"name": "Super strength(3)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 158,
+			"name": "Super strength(3)"
+		},
+		{
+			"id": 159,
+			"name": "Super strength(2)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 160,
+			"name": "Super strength(2)"
+		},
+		{
+			"id": 161,
+			"name": "Super strength(1)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 162,
+			"name": "Super strength(1)"
+		},
+		{
+			"id": 227,
+			"name": "Vial of water",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 228,
+			"name": "Vial of water"
+		},
+		{
+			"id": 229,
+			"name": "Vial",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 230,
+			"name": "Vial"
+		},
+		{
+			"id": 249,
+			"name": "Guam leaf",
+			"value": 2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 250,
+			"name": "Guam leaf"
+		},
+		{
+			"id": 251,
+			"name": "Marrentill",
+			"value": 5,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 252,
+			"name": "Marrentill"
+		},
+		{
+			"id": 253,
+			"name": "Tarromin",
+			"value": 10,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 254,
+			"name": "Tarromin"
+		},
+		{
+			"id": 255,
+			"name": "Harralander",
+			"value": 20,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 256,
+			"name": "Harralander"
+		},
+		{
+			"id": 257,
+			"name": "Ranarr weed",
+			"value": 25,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 258,
+			"name": "Ranarr weed"
+		},
+		{
+			"id": 259,
+			"name": "Irit leaf",
+			"value": 40,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 260,
+			"name": "Irit leaf"
+		},
+		{
+			"id": 261,
+			"name": "Avantoe",
+			"value": 47,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 262,
+			"name": "Avantoe"
+		},
+		{
+			"id": 263,
+			"name": "Kwuarm",
+			"value": 53,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 264,
+			"name": "Kwuarm"
+		},
+		{
+			"id": 265,
+			"name": "Cadantine",
+			"value": 65,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 266,
+			"name": "Cadantine"
+		},
+		{
+			"id": 267,
+			"name": "Dwarf weed",
+			"value": 70,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 268,
+			"name": "Dwarf weed"
+		},
+		{
+			"id": 269,
+			"name": "Torstol",
+			"value": 75,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 270,
+			"name": "Torstol"
+		},
+		{
+			"id": 284,
+			"name": "Plague jacket",
+			"weight": 2.2
+		},
+		{
+			"id": 285,
+			"name": "Plague trousers",
+			"weight": 2.2
+		},
+		{
+			"id": 315,
+			"name": "Shrimps",
+			"weight": 0.5,
+			"value": 5,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 316,
+			"name": "Shrimps"
+		},
+		{
+			"id": 317,
+			"name": "Raw shrimps",
+			"weight": 0.5,
+			"value": 5,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 318,
+			"name": "Raw shrimps"
+		},
+		{
+			"id": 333,
+			"name": "Trout",
+			"weight": 0.4,
+			"value": 67,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 334,
+			"name": "Trout"
+		},
+		{
+			"id": 373,
+			"name": "Swordfish",
+			"weight": 0.4,
+			"value": 200,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 374,
+			"name": "Swordfish"
+		},
+		{
+			"id": 379,
+			"name": "Lobster",
+			"weight": 0.33,
+			"value": 150,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 380,
+			"name": "Lobster"
+		},
+		{
+			"id": 383,
+			"name": "Raw shark",
+			"weight": 0.7,
+			"value": 300,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 384,
+			"name": "Raw shark"
+		},
+		{
+			"id": 385,
+			"name": "Shark",
+			"weight": 0.6,
+			"value": 300,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 386,
+			"name": "Shark"
+		},
+		{
+			"id": 387,
+			"name": "Burnt shark",
+			"weight": 0.6,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 388,
+			"name": "Burnt shark"
+		},
+		{
+			"id": 391,
+			"name": "Manta ray",
+			"weight": 0.4,
+			"value": 500,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 392,
+			"name": "Manta ray"
+		},
+		{
+			"id": 397,
+			"name": "Sea turtle",
+			"weight": 0.35,
+			"value": 500,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 398,
+			"name": "Sea turtle"
+		},
+		{
+			"id": 420,
+			"name": "Distillator"
+		},
+		{
+			"id": 421,
+			"name": "Lathas amulet"
+		},
+		{
+			"id": 422,
+			"name": "Bird feed"
+		},
+		{
+			"id": 423,
+			"name": "Key"
+		},
+		{
+			"id": 424,
+			"name": "Pigeon cage"
+		},
+		{
+			"id": 425,
+			"name": "Pigeon cage"
+		},
+		{
+			"id": 426,
+			"name": "Priest gown", 
+			"weight": 1.8,
+			"value": 5,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]
+		},
+		{
+			"id": 427,
+			"name": "Priest gown"
+		},
+		{
+			"id": 428,
+			"name": "Priest gown", 
+			"weight": 1.8,
+			"value": 5,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]
+		},
+		{
+			"id": 429,
+			"name": "Priest gown"
+		},
+		{
+			"id": 440,
+			"name": "Iron ore",
+			"weight": 2,
+			"value": 16,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 441,
+			"name": "Iron ore"
+		},
+		{
+			"id": 526,
+			"name": "Bones",
+			"weight": 0.5,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 527,
+			"name": "Bones"
+		},
+		{
+			"id": 528,
+			"name": "Burnt bones",
+			"weight": 0.2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 529,
+			"name": "Burnt bones"
+		},
+		{
+			"id": 530,
+			"name": "Bat bones",
+			"weight": 0.3,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 531,
+			"name": "Bat bones"
+		},
+		{
+			"id": 532,
+			"name": "Big bones",
+			"weight": 0.8,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 533,
+			"name": "Big bones"
+		},
+		{
+			"id": 534,
+			"name": "Babydragon bones",
+			"weight": 0.7,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 535,
+			"name": "Babydragon bones"
+		},
+		{
+			"id": 536,
+			"name": "Dragon bones",
+			"weight": 1.5,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 537,
+			"name": "Dragon bones"
+		},
+		{
+			"id": 550,
+			"name": "Newcomer map",
+			"weight": 0.5,
+			"value": 1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 551,
+			"name": "Newcomer map"
+		},
+		{
+			"id": 554,
+			"name": "Fire rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 555,
+			"name": "Water rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 556,
+			"name": "Air rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 557,
+			"name": "Earth rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 558,
+			"name": "Mind rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 559,
+			"name": "Body rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 560,
+			"name": "Death rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 561,
+			"name": "Nature rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 562,
+			"name": "Chaos rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 563,
+			"name": "Law rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 564,
+			"name": "Cosmic rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 565,
+			"name": "Blood rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 566,
+			"name": "Soul rune",
+			"value": 5,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 590,
+			"name": "Tinderbox",
+			"weight": 0.05,
+			"value": 1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 591,
+			"name": "Tinderbox"
+		},
+		{
+			"id": 800,
+			"name": "Bronze thrownaxe",
+			"value": 3,
+			"flags": [false, true, true],
+			"bonuses": [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 801,
+			"name": "Iron thrownaxe",
+			"value": 12,
+			"flags": [false, true, true],
+			"bonuses": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 802,
+			"name": "Steel thrownaxe",
+			"value": 37,
+			"flags": [false, true, true],
+			"bonuses": [0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 803,
+			"name": "Mithril thrownaxe",
+			"value": 70,
+			"flags": [false, true, true],
+			"bonuses": [0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 804,
+			"name": "Adamnt thrownaxe",
+			"value": 261,
+			"flags": [false, true, true],
+			"bonuses": [0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 805,
+			"name": "Rune thrownaxe",
+			"value": 440,
+			"flags": [false, true, true],
+			"bonuses": [0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 841,
+			"name": "Shortbow",
+			"weight": 1.33,
+			"value": 50,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 842,
+			"name": "Shortbow"
+		},
+		{
+			"id": 892,
+			"name": "Rune arrow",
+			"value": 400,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 893,
+			"name": "Rune arrow(p)",
+			"value": 400,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 946,
+			"name": "Knife",
+			"weight": 0.4,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 947,
+			"name": "Knife"
+		},
+		{
+			"id": 950,
+			"name": "Silk",
+			"weight": 1,
+			"value": 30,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 951,
+			"name": "Silk"
+		},
+		{
+			"id": 962,
+			"name": "Christmas cracker",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 963,
+			"name": "Christmas cracker"
+		},
+		{
+			"id": 981,
+			"name": "Disk of returning",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 982,
+			"name": "Disk of returning"
+		},
+		{
+			"id": 985,
+			"name": "Half of a key",
+			"value": 1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 986,
+			"name": "Half of a key"
+		},
+		{
+			"id": 987,
+			"name": "Half of a key",
+			"value": 1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 988,
+			"name": "Half of a key"
+		},
+		{
+			"id": 995,
+			"name": "Coins",
+			"value": 1,
+			"flags": [false, true, true]
+		},
+		{
+			"id": 1005,
+			"name": "White apron",
+			"weight": 0.45,
+			"value": 2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1006,
+			"name": "White apron"
+		},
+		{
+			"id": 1019,
+			"name": "Cape",
+			"weight": 0.4,
+			"value": 20,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1020,
+			"name": "Cape"
+		},
+		{
+			"id": 1021,
+			"name": "Cape",
+			"weight": 0.4,
+			"value": 20,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1022,
+			"name": "Cape"
+		},
+		{
+			"id": 1023,
+			"name": "Cape",
+			"weight": 0.4,
+			"value": 20,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1024,
+			"name": "Cape"
+		},
+		{
+			"id": 1025,
+			"name": "Eye patch",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1026,
+			"name": "Eye patch"
+		},
+		{
+			"id": 1033,
+			"name": "Zamorak robe",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1034,
+			"name": "Zamorak robe"
+		},
+		{
+			"id": 1035,
+			"name": "Zamorak robe",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1036,
+			"name": "Zamorak robe"
+		},
+		{
+			"id": 1037,
+			"name": "Bunny ears",
+			"value": -1
+		},
+		{
+			"id": 1038,
+			"name": "Red partyhat",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1039,
+			"name": "Red partyhat"
+		},
+		{
+			"id": 1040,
+			"name": "Yellow partyhat",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1041,
+			"name": "Yellow partyhat"
+		},
+		{
+			"id": 1042,
+			"name": "Blue partyhat",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1043,
+			"name": "Blue partyhat"
+		},
+		{
+			"id": 1044,
+			"name": "Green partyhat",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1045,
+			"name": "Green partyhat"
+		},
+		{
+			"id": 1046,
+			"name": "Purple partyhat",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1047,
+			"name": "Purple partyhat"
+		},
+		{
+			"id": 1048,
+			"name": "White partyhat",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1049,
+			"name": "White partyhat"
+		},
+		{
+			"id": 1050,
+			"name": "Santa hat",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1051,
+			"name": "Santa hat"
+		},
+		{
+			"id": 1052,
+			"name": "Cape of legends",
+			"weight": 1.8
+		},
+		{
+			"id": 1053,
+			"name": "Green h'ween mask",
+			"weight": 0.034,
+			"value": 15,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1054,
+			"name": "Green h'ween mask"
+		},
+		{
+			"id": 1055,
+			"name": "Blue h'ween mask",
+			"weight": 0.034,
+			"value": 15,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1056,
+			"name": "Blue h'ween mask"
+		},
+		{
+			"id": 1057,
+			"name": "Red h'ween mask",
+			"weight": 0.034,
+			"value": 15,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1058,
+			"name": "Red h'ween mask"
+		},
+		{
+			"id": 1065,
+			"name": "Green d'hide vambraces",
+			"value": 2500,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -10, 8, 3, 2, 4, 2, 0, 0, 0]
+		},
+		{
+			"id": 1066,
+			"name": "Green d'hide vambraces"
+		},
+		{
+			"id": 1079,
+			"name": "Rune platelegs",
+			"weight": 9,
+			"value": 64000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -21, -7, 51, 49, 47, -4, 49, 0, 0]
+		},
+		{
+			"id": 1080,
+			"name": "Rune platelegs"
+		},
+		{
+			"id": 1099,
+			"name": "Green d'hide chaps",
+			"value": 3900,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -10, 8, 22, 16, 24, 8, 22, 0, 0]
+		},
+		{
+			"id": 1100,
+			"name": "Green d'hide chaps"
+		},
+		{
+			"id": 1127,
+			"name": "Rune platebody",
+			"weight": 9.9,
+			"value": 65000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -30, -10, 82, 80, 72, -6, 80, 0, 0]
+		},
+		{
+			"id": 1128,
+			"name": "Rune platebody"
+		},
+		{
+			"id": 1135,
+			"name": "Green d'hide body",
+			"value": 7800,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -15, 15, 40, 32, 45, 20, 40, 0, 0]
+		},
+		{
+			"id": 1136,
+			"name": "Green d'hide body"
+		},
+		{
+			"id": 1149,
+			"name": "Dragon med helm",
+			"weight": 1,
+			"value": 100000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -3, -1, 33, 35, 32, -1, 34, 0, 0]
+		},
+		{
+			"id": 1150,
+			"name": "Dragon med helm"
+		},
+		{
+			"id": 1163,
+			"name": "Rune full helm",
+			"weight": 2,
+			"value": 35200,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 30, 32, 27, -1, 30, 0, 0]
+		},
+		{
+			"id": 1164,
+			"name": "Rune full helm"
+		},
+		{
+			"id": 1171,
+			"name": "Wooden shield",
+			"weight": 2,
+			"value": 20,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 4, 5, 3, 1, 4, 0, 0]
+		},
+		{
+			"id": 1172,
+			"name": "Wooden shield"
+		},
+		{
+			"id": 1173,
+			"name": "Bronze sq shield",
+			"weight": 3.628,
+			"value": 48,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 5, 6, 4, 0, 5, 0, 0]
+		},
+		{
+			"id": 1174,
+			"name": "Bronze sq shield"
+		},
+		{
+			"id": 1175,
+			"name": "Iron sq shield",
+			"weight": 3.628,
+			"value": 168,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 8, 9, 7, 0, 8, 0, 0]
+		},
+		{
+			"id": 1176,
+			"name": "Iron sq shield"
+		},
+		{
+			"id": 1177,
+			"name": "Steel sq shield",
+			"weight": 3.628,
+			"value": 600,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 12, 13, 11, 0, 12, 0, 0]
+		},
+		{
+			"id": 1178,
+			"name": "Steel sq shield"
+		},
+		{
+			"id": 1179,
+			"name": "Black sq shield",
+			"weight": 3.628,
+			"value": 1152,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 15, 16, 14, 0, 15, 0, 0]
+		},
+		{
+			"id": 1180,
+			"name": "Black sq shield"
+		},
+		{
+			"id": 1181,
+			"name": "Mithril sq shield",
+			"weight": 3.175,
+			"value": 1560,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 17, 19, 15, 0, 17, 0, 0]
+		},
+		{
+			"id": 1182,
+			"name": "Mithril sq shield"
+		},
+		{
+			"id": 1183,
+			"name": "Adamant sq shield",
+			"weight": 4.082,
+			"value": 3840,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 24, 26, 22, 0, 24, 0, 0]
+		},
+		{
+			"id": 1184,
+			"name": "Adamant sq shield"
+		},
+		{
+			"id": 1185,
+			"name": "Rune sq shield",
+			"weight": 3.628,
+			"value": 38400,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 38, 40, 36, 0, 38, 0, 0]
+		},
+		{
+			"id": 1186,
+			"name": "Rune sq shield"
+		},
+		{
+			"id": 1187,
+			"name": "Dragon sq shield",
+			"weight": 3,
+			"value": 500000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 50, 52, 48, 0, 50, 0, 0]
+		},
+		{
+			"id": 1188,
+			"name": "Dragon sq shield"
+		},
+		{
+			"id": 1201,
+			"name": "Rune kiteshield",
+			"weight": 5,
+			"value": 54400,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -8, -2, 44, 48, 46, -1, 46, 0, 0]
+		},
+		{
+			"id": 1202,
+			"name": "Rune kiteshield"
+		},
+		{
+			"id": 1205,
+			"name": "Bronze dagger",
+			"weight": 0.4,
+			"value": 10,
+			"flags": [true, false, true],
+			"bonuses": [4, 2, -4, 1, 0, 0, 0, 0, 1, 0, 3, 0]
+		},
+		{
+			"id": 1206,
+			"name": "Bronze dagger"
+		},
+		{
+			"id": 1265,
+			"name": "Bronze pickaxe",
+			"weight": 2.25,
+			"bonuses": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1266,
+			"name": "Bronze pickaxe"
+		},
+		{
+			"id": 1277,
+			"name": "Bronze sword",
+			"weight": 1,
+			"value": 26,
+			"flags": [true, false, true],
+			"bonuses": [4, 3, -2, 0, 0, 0, 2, 1, 0, 0, 7, 0]
+		},
+		{
+			"id": 1278,
+			"name": "Bronze sword"
+		},
+		{
+			"id": 1279,
+			"name": "Iron sword",
+			"weight": 1.8,
+			"value": 90,
+			"flags": [true, false, true],
+			"bonuses": [6, 4, -2, 0, 0, 0, 2, 1, 0, 0, 7, 0]
+		},
+		{
+			"id": 1280,
+			"name": "Iron sword"
+		},
+		{
+			"id": 1281,
+			"name": "Steel sword",
+			"weight": 1,
+			"value": 325,
+			"flags": [true, false, true],
+			"bonuses": [11, 8, -2, 0, 0, 0, 2, 1, 0, 0, 12, 0]
+		},
+		{
+			"id": 1282,
+			"name": "Steel sword"
+		},
+		{
+			"id": 1283,
+			"name": "Black sword",
+			"weight": 1,
+			"value": 623,
+			"flags": [true, false, true],
+			"bonuses": [14, 10, -2, 0, 0, 0, 2, 1, 0, 0, 12, 0]
+		},
+		{
+			"id": 1284,
+			"name": "Black sword"
+		},
+		{
+			"id": 1285,
+			"name": "Mithril sword",
+			"weight": 1.5,
+			"value": 845,
+			"flags": [true, false, true],
+			"bonuses": [16, 11, -2, 0, 0, 0, 2, 1, 0, 0, 17, 0]
+		},
+		{
+			"id": 1286,
+			"name": "Mithril sword"
+		},
+		{
+			"id": 1287,
+			"name": "Adamant sword",
+			"weight": 1,
+			"value": 2080,
+			"flags": [true, false, true],
+			"bonuses": [23, 18, -2, 0, 0, 0, 2, 1, 0, 0, 24, 0]
+		},
+		{
+			"id": 1288,
+			"name": "Adamant sword"
+		},
+		{
+			"id": 1289,
+			"name": "Rune sword",
+			"weight": 1.8,
+			"value": 20800,
+			"flags": [true, false, true],
+			"bonuses": [38, 26, -2, 0, 0, 0, 2, 1, 0, 0, 39, 0]
+		},
+		{
+			"id": 1290,
+			"name": "Rune sword"
+		},
+		{
+			"id": 1291,
+			"name": "Bronze longsword",
+			"weight": 1.8,
+			"value": 40,
+			"flags": [true, false, true],
+			"bonuses": [4, 5, -2, 0, 0, 0, 3, 2, 0, 0, 7, 0]
+		},
+		{
+			"id": 1292,
+			"name": "Bronze longsword"
+		},
+		{
+			"id": 1293,
+			"name": "Iron longsword",
+			"weight": 1.8,
+			"value": 140,
+			"flags": [true, false, true],
+			"bonuses": [6, 8, -2, 0, 0, 0, 3, 2, 0, 0, 10, 0]
+		},
+		{
+			"id": 1294,
+			"name": "Iron longsword"
+		},
+		{
+			"id": 1295,
+			"name": "Steel longsword",
+			"weight": 1.8,
+			"value": 142,
+			"flags": [true, false, true],
+			"bonuses": [9, 14, -2, 0, 0, 0, 3, 2, 0, 0, 16, 0]
+		},
+		{
+			"id": 1296,
+			"name": "Steel longsword"
+		},
+		{
+			"id": 1295,
+			"name": "Black longsword",
+			"weight": 1.8,
+			"value": 960,
+			"flags": [true, false, true],
+			"bonuses": [13, 18, -2, 0, 0, 0, 3, 2, 0, 0, 16, 0]
+		},
+		{
+			"id": 1296,
+			"name": "Black longsword"
+		},
+		{
+			"id": 1305,
+			"name": "Dragon longsword",
+			"weight": 1.8,
+			"value": 100000,
+			"flags": [true, false, true],
+			"bonuses": [58, 69, -2, 0, 0, 0, 3, 2, 0, 0, 71, 0]
+			
+		},
+		{
+			"id": 1306,
+			"name": "Dragon longsword"
+		},
+		{
+			"id": 1307,
+			"name": "Bronze 2h sword",
+			"value": 80,
+			"weight": 3.6,
+			"flags": [true, false, true],
+			"bonuses": [-4, 9, 8, -4, 0, 0, 0, 0, 0, -1, 10, 0]
+		},
+		{
+			"id": 1308,
+			"name": "Bronze 2h sword"
+		},
+		{
+			"id": 1319,
+			"name": "Rune 2h sword",
+			"weight": 3.6,
+			"value": 64000,
+			"flags": [true, false, true],
+			"bonuses": [-4, 69, 50, -4, 0, 0, 0, 0, 0, -1, 70, 0]
+		},
+		{
+			"id": 1320,
+			"name": "Rune 2h sword"
+		},
+		{
+			"id": 1321,
+			"name": "Bronze scimitar",
+			"value": 32,
+			"weight": 1,
+			"flags": [true, false, true],
+			"bonuses": [1, 7, -2, 0, 0, 0, 0, 0, 0, 0, 6, 0]
+		},
+		{
+			"id": 1322,
+			"name": "Bronze scimitar"
+		},
+		{
+			"id": 1333,
+			"name": "Rune scimitar",
+			"weight": 1.8,
+			"value": 25600,
+			"flags": [true, false, true],
+			"bonuses": [7, 45, -2, 0, 0, 0, 1, 0, 0, 0, 44, 0]
+		},
+		{
+			"id": 1334,
+			"name": "Rune scimitar"
+		},
+		{
+			"id": 1351,
+			"name": "Bronze axe",
+			"weight": 1.35,
+			"value": 15,
+			"flags": [true, false, true],
+			"bonuses": [-2, 4, 2, 0, 0, 0, 1, 0, 0, 0, 5, 0]
+		},
+		{
+			"id": 1352,
+			"name": "Bronze axe"
+		},
+		{
+			"id": 1381,
+			"name": "Staff of air",
+			"weight": 2.2,
+			"value": 1500,
+			"flags": [true, false, true],
+			"bonuses": [0, -1, 7, 10, 0, 2, 3, 1, 10, 0, 3, 0]
+		},
+		{
+			"id": 1382,
+			"name": "Staff of air"
+		},
+		{
+			"id": 1387,
+			"name": "Staff of fire",
+			"weight": 2.2,
+			"value": 1500,
+			"flags": [true, false, true],
+			"bonuses": [3, -1, 9, 10, 0, 2, 3, 1, 10, 0, 6, 0]
+		},
+		{
+			"id": 1388,
+			"name": "Staff of fire"
+		},
+		{
+			"id": 1434,
+			"name": "Dragon mace",
+			"weight": 1.8,
+			"value": 50000,
+			"flags": [true, false, true],
+			"bonuses": [40, -2, 60, 0, 0, 0, 0, 0, 0, 0, 55, 5]
+		},
+		{
+			"id": 1435,
+			"name": "Dragon mace"
+		},
+		{
+			"id": 1506,
+			"name": "Gas mask"
+		},
+		{
+			"id": 1511,
+			"name": "Logs",
+			"value": 3,
+			"weight": 2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1512,
+			"name": "Logs"
+		},
+		{
+			"id": 1513,
+			"name": "Magic logs",
+			"value": 320,
+			"weight": 2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1514,
+			"name": "Magic logs"
+		},
+		{
+			"id": 1515,
+			"name": "Yew logs",
+			"value": 160,
+			"weight": 2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1516,
+			"name": "Yew logs"
+		},
+		{
+			"id": 1517,
+			"name": "Maple logs",
+			"value": 80,
+			"weight": 2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1518,
+			"name": "Maple logs"
+		},
+		{
+			"id": 1519,
+			"name": "Willow logs",
+			"value": 40,
+			"weight": 2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1520,
+			"name": "Willow logs"
+		},
+		{
+			"id": 1521,
+			"name": "Oak logs",
+			"value": 20,
+			"weight": 2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1522,
+			"name": "Oak logs"
+		},
+		{
+			"id": 1540,
+			"name": "Anti-dragon shield",
+			"weight": 5.4,
+			"value": 20,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 7, 9, 8, 2, 8, 0, 0]
+		},
+		{
+			"id": 1541,
+			"name": "Anti-dragon shield"
+		},
+		{
+			"id": 1639,
+			"name": "Emerald ring",
+			"value": 1275,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1704,
+			"name": "Amulet of glory",
+			"weight": 0.3,
+			"value": 17625,
+			"flags": [true, false, true],
+			"bonuses": [10, 10, 10, 10, 10, 3, 3, 3, 3, 3, 6, 3]
+		},
+		{
+			"id": 1705,
+			"name": "Amulet of glory"
+		},
+		{
+			"id": 1706,
+			"name": "Amulet of glory(1)",
+			"weight": 0.3,
+			"value": 17625,
+			"flags": [true, false, true],
+			"bonuses": [10, 10, 10, 10, 10, 3, 3, 3, 3, 3, 6, 3]
+		},
+		{
+			"id": 1707,
+			"name": "Amulet of glory(1)"
+		},
+		{
+			"id": 1708,
+			"name": "Amulet of glory(2)",
+			"weight": 0.3,
+			"value": 17625,
+			"flags": [true, false, true],
+			"bonuses": [10, 10, 10, 10, 10, 3, 3, 3, 3, 3, 6, 3]
+		},
+		{
+			"id": 1709,
+			"name": "Amulet of glory(2)"
+		},
+		{
+			"id": 1710,
+			"name": "Amulet of glory(3)",
+			"weight": 0.3,
+			"value": 17625,
+			"flags": [true, false, true],
+			"bonuses": [10, 10, 10, 10, 10, 3, 3, 3, 3, 3, 6, 3]
+		},
+		{
+			"id": 1711,
+			"name": "Amulet of glory(3)"
+		},
+		{
+			"id": 1712,
+			"name": "Amulet of glory(4)",
+			"weight": 0.3,
+			"value": 17625,
+			"flags": [true, false, true],
+			"bonuses": [10, 10, 10, 10, 10, 3, 3, 3, 3, 3, 6, 3]
+		},
+		{
+			"id": 1713,
+			"name": "Amulet of glory(4)"
+		},
+		{
+			"id": 1735,
+			"name": "Shears",
+			"weight": 0.1,
+			"value": 1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1736,
+			"name": "Shears"
+		},
+		{
+			"id": 1747,
+			"name": "Black dragonhide",
+			"value": 80,
+			"weight": 3.1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1748,
+			"name": "Black dragonhide"
+		},
+		{
+			"id": 1749,
+			"name": "Red dragonhide",
+			"value": 40,
+			"weight": 3.1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1750,
+			"name": "Red dragonhide"
+		},
+		{
+			"id": 1751,
+			"name": "Blue dragonhide",
+			"value": 40,
+			"weight": 3.1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1752,
+			"name": "Blue dragonhide"
+		},
+		{
+			"id": 1753,
+			"name": "Green dragonhide",
+			"value": 20,
+			"weight": 3.1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1754,
+			"name": "Green dragonhide"
+		},
+		{
+			"id": 1755,
+			"name": "Chisel",
+			"weight": 0.4,
+			"value": 14,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1756,
+			"name": "Chisel"
+		},
+		{
+			"id": 1887,
+			"name": "Cake tin",
+			"weight": 0.1,
+			"value": 10,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1888,
+			"name": "Cake tin"
+		},
+		{
+			"id": 1891,
+			"name": "Cake",
+			"weight": 0.3,
+			"value": 50,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1892,
+			"name": "Cake"
+		},
+		{
+			"id": 1893,
+			"name": "2/3 cake",
+			"weight": 0.2,
+			"value": 30,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1894,
+			"name": "2/3 cake"
+		},
+		{
+			"id": 1895,
+			"name": "Slice of cake",
+			"weight": 0.1,
+			"value": 10,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1896,
+			"name": "Slice of cake"
+		},
+		{
+			"id": 1897,
+			"name": "Chocolate cake",
+			"weight": 0.3,
+			"value": 50,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1898,
+			"name": "Chocolate cake"
+		},
+		{
+			"id": 1899,
+			"name": "2/3 chocolate cake",
+			"weight": 0.2,
+			"value": 30,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1900,
+			"name": "2/3 chocolate cake"
+		},
+		{
+			"id": 1901,
+			"name": "Chocolate slice",
+			"weight": 0.1,
+			"value": 10,
+			"flags": [true, false, true]
+		},
+		{ 
+			"id": 1902,
+			"name": "Chocolate slice"
+		},
+		{
+			"id": 1923,
+			"name": "Bowl",
+			"weight": 0.4,
+			"value": 4,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1924,
+			"name": "Bowl"
+		},
+		{
+			"id": 1925,
+			"name": "Bucket",
+			"weight": 1,
+			"value": 2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1926,
+			"name": "Bucket"
+		},
+		{
+			"id": 1931,
+			"name": "Pot",
+			"weight": 0.45,
+			"value": 1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1932,
+			"name": "Pot"
+		},
+		{
+			"id": 1935,
+			"name": "Jug",
+			"weight": 0.4,
+			"value": 1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1936,
+			"name": "Jug"
+		},
+		{
+			"id": 1949,
+			"name": "Chefs hat",
+			"weight": 0.9,
+			"value": 2,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1950,
+			"name": "Chefs hat"
+		},
+		{
+			"id": 1961,
+			"name": "Easter egg",
+			"value": 10,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 1962,
+			"name": "Easter egg"
+		},
+		{
+			"id": 2293,
+			"name": "Meat pizza",
+			"weight": 0.83,
+			"value": 50,
+			"flags": [true, false, true]
+		},
+		{ 
+			"id": 2294,
+			"name": "Meat pizza"
+		},
+		{
+			"id": 2295,
+			"name": "1/2 meat pizza",
+			"weight": 0.25,
+			"value": 25,
+			"flags": [true, false, true]
+		},
+		{ 
+			"id": 2296,
+			"name": "1/2 meat pizza"
+		},
+		{
+			"id": 2347,
+			"name": "Hammer",
+			"weight": 1,
+			"value": 1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2348,
+			"name": "Hammer"
+		},
+		{
+			"id": 2412,
+			"name": "Saradomin cape",
+			"weight": 0.4,
+			"value": 100,
+			"flags": [false, false, true],
+			"bonuses": [0, 0, 0, 10, 0, 1, 1, 2, 10, 0, 0, 0]
+		},
+		{
+			"id": 2413,
+			"name": "Guthix cape",
+			"weight": 0.4,
+			"value": 100,
+			"flags": [false, false, true],
+			"bonuses": [0, 0, 0, 10, 0, 1, 1, 2, 10, 0, 0, 0]
+		},
+		{
+			"id": 2414,
+			"name": "Zamorak cape",
+			"weight": 0.4,
+			"value": 100,
+			"flags": [false, false, true],
+			"bonuses": [0, 0, 0, 10, 0, 1, 1, 2, 10, 0, 0, 0]
+		},
+		{
+			"id": 2428,
+			"name": "Attack potion(4)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2429,
+			"name": "Attack potion(4)"
+		},
+		{
+			"id": 2432,
+			"name": "Defence potion(4)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2433,
+			"name": "Defence potion(4)"
+		},
+		{
+			"id": 2434,
+			"name": "Prayer potion(4)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2435,
+			"name": "Prayer potion(4)"
+		},
+		{
+			"id": 2436,
+			"name": "Super attack(4)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2437,
+			"name": "Super attack(4)"
+		},
+		{
+			"id": 2440,
+			"name": "Super strength(4)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2441,
+			"name": "Super strength(4)"
+		},
+		{
+			"id": 2487,
+			"name": "Blue d'hide vambraces",
+			"value": 3000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -10, 9, 4, 3, 5, 4, 0, 0, 0]
+		},
+		{
+			"id": 2488,
+			"name": "Blue d'hide vambraces"
+		},
+		{
+			"id": 2489,
+			"name": "Red d'hide vambraces",
+			"value": 3600,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -10, 10, 5, 4, 6, 6, 0, 0, 0]
+		},
+		{
+			"id": 2490,
+			"name": "Red d'hide vambraces"
+		},
+		{
+			"id": 2491,
+			"name": "Black d'hide vambraces",
+			"value": 4320,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -10, 11, 6, 5, 7, 8, 0, 0, 0]
+		},
+		{
+			"id": 2492,
+			"name": "Black d'hide vambraces"
+		},
+		{
+			"id": 2550,
+			"name": "Ring of recoil",
+			"value": 900,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2552,
+			"name": "Ring of dueling(8)",
+			"value": 1275,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2553,
+			"name": "Ring of dueling(8)"
+		},
+		{
+			"id": 2554,
+			"name": "Ring of dueling(7)",
+			"value": 1275,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2555,
+			"name": "Ring of dueling(7)"
+		},
+		{
+			"id": 2556,
+			"name": "Ring of dueling(6)",
+			"value": 1275,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2557,
+			"name": "Ring of dueling(6)"
+		},
+		{
+			"id": 2558,
+			"name": "Ring of dueling(5)",
+			"value": 1275,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2559,
+			"name": "Ring of dueling(5)"
+		},
+		{
+			"id": 2560,
+			"name": "Ring of dueling(4)",
+			"value": 1275,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2561,
+			"name": "Ring of dueling(4)"
+		},
+		{
+			"id": 2562,
+			"name": "Ring of dueling(3)",
+			"value": 1275,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2563,
+			"name": "Ring of dueling(3)"
+		},
+		{
+			"id": 2564,
+			"name": "Ring of dueling(2)",
+			"value": 1275,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2565,
+			"name": "Ring of dueling(2)"
+		},
+		{
+			"id": 2566,
+			"name": "Ring of dueling(1)",
+			"value": 1275,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2567,
+			"name": "Ring of dueling(1)"
+		},
+		{
+			"id": 2591,
+			"name": "Black platebody (g)",
+			"weight": 9.07,
+			"value": 3840,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -30, -10, 41, 40, 30, -6, 40, 0, 0]
+		},
+		{
+			"id": 2592,
+			"name": "Black platebody (g)"
+		},
+		{
+			"id": 2593,
+			"name": "Black platelegs (g)",
+			"weight": 9,
+			"value": 1920,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -21, -7, 21, 20, 19, -4, 20, 0, 0]
+		},
+		{
+			"id": 2594,
+			"name": "Black platelegs (g)"
+		},
+		{
+			"id": 2595,
+			"name": "Black full helm (g)",
+			"weight": 2.7,
+			"value": 1055,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 12, 13, 10, -1, 12, 0, 0]
+		},
+		{
+			"id": 2596,
+			"name": "Black full helm (g)"
+		},
+		{
+			"id": 2597,
+			"name": "Black kiteshield (g)",
+			"weight": 5,
+			"value": 1632,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -8, -2, 17, 19, 18, -1, 18, 0, 0]
+		},
+		{
+			"id": 2598,
+			"name": "Black kiteshield (g)"
+		},
+		{
+			"id": 2639,
+			"name": "Tan cavalier",
+			"value": 200
+		},
+		{
+			"id": 2640,
+			"name": "Tan cavalier"
+		},
+		{
+			"id": 2641,
+			"name": "Dark cavalier",
+			"value": 200
+		},
+		{
+			"id": 2642,
+			"name": "Dark cavalier"
+		},
+		{
+			"id": 2643,
+			"name": "Black cavalier",
+			"value": 200
+		},
+		{
+			"id": 2644,
+			"name": "Black cavalier"
+		},
+		{
+			"id": 2551,
+			"name": "Ring of recoil"
+		},
+		{
+			"id": 2859,
+			"name": "Wolf bones",
+			"weight": 0.5,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 2860,
+			"name": "Wolf bones"
+		},
+		{
+			"id": 3000,
+			"name": "Snapdragon",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3001,
+			"name": "Snapdragon"
+		},
+		{
+			"id": 3008,
+			"name": "Energy potion(4)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3009,
+			"name": "Energy potion(4)"
+		},
+		{
+			"id": 3010,
+			"name": "Energy potion(3)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3011,
+			"name": "Energy potion(3)"
+		},
+		{
+			"id": 3012,
+			"name": "Energy potion(2)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3013,
+			"name": "Energy potion(2)"
+		},
+		{
+			"id": 3014,
+			"name": "Energy potion(1)",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3015,
+			"name": "Energy potion(1)"
+		},
+		{
+			"id": 3016,
+			"name": "Super energy(4)",
+			"value": 230,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3017,
+			"name": "Super energy(4)"
+		},
+		{
+			"id": 3018,
+			"name": "Super energy(3)",
+			"value": 173,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3019,
+			"name": "Super energy(3)"
+		},
+		{
+			"id": 3020,
+			"name": "Super energy(2)",
+			"value": 115,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3021,
+			"name": "Super energy(2)"
+		},
+		{
+			"id": 3022,
+			"name": "Super energy(1)",
+			"value": 58,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3023,
+			"name": "Super energy(1)"
+		},
+		{
+			"id": 3125,
+			"name": "Jogre bones",
+			"weight": 0.8,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3126,
+			"name": "Jogre bones"
+		},
+		{
+			"id": 3144,
+			"name": "Cooked karambwan",
+			"weight": 0.5,
+			"value": 250,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3145,
+			"name": "Cooked karambwan"
+		},
+		{
+			"id": 3177,
+			"name": "Banana left",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3178,
+			"name": "Banana left"
+		},
+		{
+			"id": 3179,
+			"name": "Monkey bones"
+		},
+		{
+			"id": 3180,
+			"name": "Monkey bones"
+		},
+		{
+			"id": 3181,
+			"name": "Monkey bones"
+		},
+		{
+			"id": 3182,
+			"name": "Monkey bones"
+		},
+		{
+			"id": 3183,
+			"name": "Monkey bones",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3184,
+			"name": "Monkey bones"
+		},
+		{
+			"id": 3186,
+			"name": "Monkey bones",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3187,
+			"name": "Monkey bones"
+		},
+		{
+			"id": 3122,
+			"name": "Granite shield",
+			"weight": 6,
+			"value": 560000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -12, 0, 40, 42, 38, 0, 56, 0, 0],
+			"childId": 3134
+		},
+		{
+			"id": 3134,
+			"name": "Granite shield",
+			"parentId": 3122
+		},
+		{
+			"id": 3140,
+			"name": "Dragon chainbody",
+			"weight": 6,
+			"value": 250000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -15, 0, 81, 93, 98, -3, 82, 0, 0]
+		},
+		{
+			"id": 3141,
+			"name": "Dragon chainbody"
+		},
+		{
+			"id": 3196,
+			"name": "Black halberd",
+			"weight": 3,
+			"value": 1920,
+			"flags": [true, false, true],
+			"bonuses": [19, 25, 0, -4, 0, -1, 2, 3, 0, 0, 20, 0]
+		},
+		{
+			"id": 3197,
+			"name": "Black halberd"
+		},
+		{
+			"id": 3801,
+			"name": "Keg of beer",
+			"value": 325,
+			"weight": 20,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 3802,
+			"name": "Keg of beer"
+		},
+		{
+			"id": 3841,
+			"name": "Damaged book",
+			"weight": 1,
+			"bonuses": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
+		},
+		{
+			"id": 3842,
+			"name": "Unholy book",
+			"weight": 1,
+			"bonuses": [8, 8, 8, 8, 8, 0, 0, 0, 0, 0, 0, 5]
+		},
+		{
+			"id": 4125,
+			"name": "Black boots",
+			"weight": 1.3,
+			"value": 575,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -3, -1, 7, 8, 9, 0, 0, 0, 0]
+		},
+		{
+			"id": 4126,
+			"name": "Black boots"
+		},
+		{
+			"id": 4131,
+			"name": "Rune boots",
+			"weight": 1.3,
+			"value": 12500,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -3, -1, 12, 13, 14, 0, 0, 2, 0]
+		},
+		{
+			"id": 4132,
+			"name": "Rune boots"
+		},
+		{
+			"id": 4151,
+			"name": "Abyssal whip",
+			"weight": 0.45,
+			"value": 120000,
+			"flags": [true, false, true],
+			"bonuses": [0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 82, 0]
+		},
+		{
+			"id": 4152,
+			"name": "Abyssal whip"
+		},
+		{
+			"id": 4067,
+			"name": "Castle wars ticket",
+			"flags": [false, true, false]
+		},
+		{
+			"id": 4068,
+			"name": "Decorative sword",
+			"weight": 1,
+			"value": 500,
+			"flags": [false, false, false],
+			"bonuses": [9, 14, -2, 0, 0, 0, 3, 2, 0, 0, 16, 0]
+		},
+		{
+			"id": 4069,
+			"name": "Decorative armour",
+			"weight": 8,
+			"value": 2000,
+			"flags": [false, false, false],
+			"bonuses": [0, 0, 0, -30, -10, 32, 31, 24, -6, 31, 0, 0]
+		},
+		{
+			"id": 4070,
+			"name": "Decorative armour",
+			"value": 1000,
+			"flags": [false, false, false],
+			"bonuses": [0, 0, 0, -21, -7, 17, 16, 15, -4, 16, 0, 0]
+		},
+		{
+			"id": 4071,
+			"name": "Decorative helm",
+			"value": 300,
+			"flags": [false, false, false]
+		},
+		{
+			"id": 4072,
+			"name": "Decorative shield",
+			"value": 850,
+			"flags": [false, false, false]
+		},
+		{
+			"id": 4087,
+			"name": "Dragon platelegs",
+			"weight": 9,
+			"value": 270000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -21, -7, 68, 66, 63, -4, 65, 0, 0]
+		},
+		{
+			"id": 4088,
+			"name": "Dragon platelegs"
+		},
+		{
+			"id": 4153,
+			"name": "Granite maul",
+			"weight": 4.5,
+			"value": 50000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 81, 0, 0, 0, 0, 0, 0, 0, 79, 0]
+		},
+		{
+			"id": 4154,
+			"name": "Granite maul"
+		},
+		{
+			"id": 4216,
+			"name": "Crystal bow 8/10",
+			"weight": 2,
+			"bonuses": [0, 0, 0, 0, 92, 0, 0, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 4217,
+			"name": "Crystal bow 7/10",
+			"weight": 2,
+			"bonuses": [0, 0, 0, 0, 88, 0, 0, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 4224,
+			"name": "New crystal shield",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 51, 54, 53, 0, 80, 0, 0]
+		},
+		{
+			"id": 4225,
+			"name": "Crystal shield full",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 51, 54, 53, 0, 80, 0, 0]
+		},
+		{
+			"id": 4226,
+			"name": "Crystal shield 9/10",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 49, 52, 51, 0, 78, 0, 0]
+		},
+		{
+			"id": 4227,
+			"name": "Crystal shield 8/10",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 47, 50, 49, 0, 76, 0, 0]
+		},
+		{
+			"id": 4228,
+			"name": "Crystal shield 7/10",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 45, 48, 47, 0, 74, 0, 0]
+		},
+		{
+			"id": 4229,
+			"name": "Crystal shield 6/10",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 43, 46, 45, 0, 72, 0, 0]
+		},
+		{
+			"id": 4230,
+			"name": "Crystal shield 5/10",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 41, 44, 43, 0, 70, 0, 0]
+		},
+		{
+			"id": 4231,
+			"name": "Crystal shield 4/10",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 39, 42, 41, 0, 68, 0, 0]
+		},
+		{
+			"id": 4232,
+			"name": "Crystal shield 3/10",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 37, 40, 39, 0, 66, 0, 0]
+		},
+		{
+			"id": 4233,
+			"name": "Crystal shield 2/10",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 35, 38, 37, 0, 64, 0, 0]
+		},
+		{
+			"id": 4234,
+			"name": "Crystal shield 1/10",
+			"weight": 2.7,
+			"bonuses": [0, 0, 0, -10, -10, 33, 36, 35, 0, 62, 0, 0]
+		},
+		{
+			"id": 4298,
+			"name": "Ham shirt",
+			"weight": 0.9,
+			"value": 75,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 4299,
+			"name": "Ham shirt"
+		},
+		{
+			"id": 4300,
+			"name": "Ham robe",
+			"weight": 0.9,
+			"value": 75,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 4301,
+			"name": "Ham robe"
+		},
+		{
+			"id": 4302,
+			"name": "Ham hood",
+			"weight": 0.4,
+			"value": 75,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 1, 2, 0, 1, 0, 0, 0]
+		},
+		{
+			"id": 4303,
+			"name": "Ham hood"
+		},
+		{
+			"id": 4304,
+			"name": "Ham cloak",
+			"weight": 0.4,
+			"value": 75,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 1, 1, 0, 2, 0, 0, 0]
+		},
+		{
+			"id": 4305,
+			"name": "Ham cloak"
+		},
+		{
+			"id": 4306,
+			"name": "H.a.m logo",
+			"value": 75,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 4307,
+			"name": "H.a.m logo"
+		},
+		{
+			"id": 4308,
+			"name": "Ham gloves",
+			"weight": 0.4,
+			"value": 75,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 4309,
+			"name": "Ham gloves"
+		},
+		{
+			"id": 4310,
+			"name": "Ham boots",
+			"weight": 0.3,
+			"value": 75,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 4311,
+			"name": "Ham boots"
+		},
+		{
+			"id": 4565,
+			"name": "Basket of eggs"
+		},
+		{
+			"id": 4566,
+			"name": "Rubber chicken",
+			"bonuses": [-100, -100, -50, 0, 0, 0, 0, 0, 0, 0, -10, 0]
+		},
+		{
+			"id": 4587,
+			"name": "Dragon scimitar",
+			"weight": 1.8,
+			"value": 100000,
+			"flags": [true, false, true],
+			"bonuses": [8, 67, -2, 0, 0, 1, 0, 0, 0, 0, 66, 0]
+		},
+		{
+			"id": 4588,
+			"name": "Dragon scimitar"
+		},
+		{
+			"id": 4708,
+			"name": "Ahrims hood",
+			"weight": 0.9,
+			"value": 13000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 6, -2, 15, 13, 16, 6, 0, 0, 0]
+		},
+		{
+			"id": 4709,
+			"name": "Ahrims hood"
+		},
+		{
+			"id": 4710,
+			"name": "Ahrims staff",
+			"weight": 1,
+			"value": 103000,
+			"flags": [true, false, true],
+			"bonuses": [12, -1, 62, 15, 0, 3, 2, 5, 15, 0, 68, 0]
+		},
+		{
+			"id": 4711,
+			"name": "Ahrims staff"
+		},
+		{
+			"id": 4712,
+			"name": "Ahrims robetop",
+			"weight": 5,
+			"value": 60000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 30, -10, 52, 37, 63, 30, 0, 0, 0]
+		},
+		{
+			"id": 4713,
+			"name": "Ahrims robetop"
+		},
+		{
+			"id": 4714,
+			"name": "Ahrims robeskirt",
+			"weight": 11,
+			"value": 47000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 22, -7, 33, 30, 36, 22, 0, 0, 0]
+		},
+		{
+			"id": 4715,
+			"name": "Ahrims robeskirt"
+		},
+		{
+			"id": 4716,
+			"name": "Dharoks helm",
+			"weight": 1,
+			"value": 103000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 45, 48, 44, -1, 51, 0, 0],
+			"dropItem": 4884
+		},
+		{
+			"id": 4717,
+			"name": "Dharoks helm"
+		},
+		{
+			"id": 4718,
+			"name": "Dharoks greataxe",
+			"weight": 13,
+			"value": 208000,
+			"flags": [true, false, true],
+			"bonuses": [0, 103, 95, -4, 0, 0, 0, 0, 0, -1, 105, 0],
+			"dropItem": 4890
+		},
+		{
+			"id": 4719,
+			"name": "Dharoks greataxe"
+		},
+		{
+			"id": 4720,
+			"name": "Dharoks platebody",
+			"weight": 9,
+			"value": 280000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -30, -10, 122, 120, 107, -6, 132, 0, 0],
+			"dropItem": 4896
+		},
+		{
+			"id": 4721,
+			"name": "Dharoks platebody"
+		},
+		{
+			"id": 4722,
+			"name": "Dharoks platelegs",
+			"weight": 10,
+			"value": 275000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 85, 82, 83, -4, 92, 0, 0],
+			"dropItem": 4902
+		},
+		{
+			"id": 4723,
+			"name": "Dharoks platelegs"
+		},
+		{
+			"id": 4753,
+			"name": "Veracs helm",
+			"weight": 1,
+			"value": 103000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 55, 58, 54, 0, 56, 0, 3]
+		},
+		{
+			"id": 4754,
+			"name": "Veracs helm"
+		},
+		{
+			"id": 4755,
+			"name": "Veracs flail",
+			"weight": 2,
+			"value": 160000,
+			"flags": [true, false, true],
+			"bonuses": [68, -2, 82, 0, 0, 0, 0, 0, 0, 0, 72, 6]
+		},
+		{
+			"id": 4756,
+			"name": "Veracs flail"
+		},
+		{
+			"id": 4757,
+			"name": "Veracs brassard",
+			"weight": 5,
+			"value": 280000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -6, -2, 81, 95, 85, 0, 81, 0, 5]
+		},
+		{
+			"id": 4758,
+			"name": "Veracs brassard"
+		},
+		{
+			"id": 4759,
+			"name": "Veracs plateskirt",
+			"weight": 4.5,
+			"value": 275000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, -21, -7, 85, 82, 83, 0, 84, 0, 4]
+		},
+		{
+			"id": 4760,
+			"name": "Veracs plateskirt"
+		},
+		{
+			"id": 4812,
+			"name": "Zogre bones",
+			"weight": 0.8,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 4813,
+			"name": "Zogre bones"
+		},
+		{
+			"id": 4830,
+			"name": "Fayrg bones",
+			"weight": 0.8,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 4831,
+			"name": "Fayrg bones"
+		},
+		{
+			"id": 4832,
+			"name": "Raurg bones",
+			"weight": 0.8,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 4833,
+			"name": "Raurg bones"
+		},
+		{
+			"id": 4834,
+			"name": "Ourg bones",
+			"weight": 0.8,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 4835,
+			"name": "Ourg bones"
+		},
+		{
+			"id": 4884,
+			"name": "Dharoks helm 0",
+			"value": 103000,
+			"weight": 1,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 4885,
+			"name": "Dharoks helm 0"
+		},
+		{
+			"id": 4890,
+			"name": "Dharoks axe 0",
+			"value": 208000,
+			"weight": 3,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 4891,
+			"name": "Dharoks axe 0"
+		},
+		{
+			"id": 4896,
+			"name": "Dharoks body 0",
+			"value": 280000,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 4897,
+			"name": "Dharoks body 0"
+		},
+		{
+			"id": 4902,
+			"name": "Dharoks legs 0",
+			"value": 275000,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 4903,
+			"name": "Dharoks legs 0"
+		},
+		{
+			"id": 5024,
+			"name": "Woven top",
+			"value": 845,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5025,
+			"name": "Woven top"
+		},
+		{
+			"id": 5026,
+			"name": "Woven top",
+			"value": 845,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5027,
+			"name": "Woven top"
+		},
+		{
+			"id": 5028,
+			"name": "Woven top",
+			"value": 845,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5029,
+			"name": "Woven top"
+		},
+		{
+			"id": 5030,
+			"name": "Shirt",
+			"value": 450,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5031,
+			"name": "Shirt"
+		},
+		{
+			"id": 5032,
+			"name": "Shirt",
+			"value": 450,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5033,
+			"name": "Shirt"
+		},
+		{
+			"id": 5034,
+			"name": "Shirt",
+			"value": 450,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5035,
+			"name": "Shirt"
+		},
+		{
+			"id": 5036,
+			"name": "Trousers",
+			"value": 975,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5037,
+			"name": "Trousers"
+		},
+		{
+			"id": 5038,
+			"name": "Trousers",
+			"value": 975,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5039,
+			"name": "Trousers"
+		},
+		{
+			"id": 5040,
+			"name": "Trousers",
+			"value": 975,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5041,
+			"name": "Trousers"
+		},
+		{
+			"id": 5042,
+			"name": "Shorts",
+			"value": 467,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5043,
+			"name": "Shorts"
+		},
+		{
+			"id": 5044,
+			"name": "Shorts",
+			"value": 467,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5045,
+			"name": "Shorts"
+		},
+		{
+			"id": 5046,
+			"name": "Shorts",
+			"value": 467,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5047,
+			"name": "Shorts"
+		},
+		{
+			"id": 5048,
+			"name": "Skirt",
+			"value": 350,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5049,
+			"name": "Skirt"
+		},
+		{
+			"id": 5050,
+			"name": "Skirt",
+			"value": 350,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5051,
+			"name": "Skirt"
+		},
+		{
+			"id": 5052,
+			"name": "Skirt",
+			"value": 350,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 5053,
+			"name": "Skirt"
+		},
+		{
+			"id": 5698,
+			"name": "Dragon dagger (s)",
+			"weight": 1,
+			"value": 30000,
+			"flags": [true, false, true],
+			"bonuses": [40, 25, -4, 1, 0, 0, 0, 0, 1, 0, 40, 0]
+		},
+		{
+			"id": 5699,
+			"name": "Dragon dagger (s)"
+		},
+		{
+			"id": 6065,
+			"name": "Mourner top"
+		},
+		{
+			"id": 6067,
+			"name": "Mourner trousers"
+		},
+		{
+			"id": 6068,
+			"name": "Mourner gloves"
+		},
+		{
+			"id": 6069,
+			"name": "Mourner boots"
+		},
+		{
+			"id": 6070,
+			"name": "Mourner cloak"
+		},
+		{
+			"id": 6106,
+			"name": "Ghostly boots",
+			"value": 300,
+			"bonuses": [0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0]
+		},
+		{
+			"id": 6107,
+			"name": "Ghostly robes",
+			"value": 300,
+			"bonuses": [0, 0, 0, 5, 0, 0, 0, 0, 5, 0, 0, 0]
+		},
+		{
+			"id": 6108,
+			"name": "Ghostly robes",
+			"value": 300,
+			"bonuses": [0, 0, 0, 4, 0, 0, 0, 0, 4, 0, 0, 0]
+		},
+		{
+			"id": 6109,
+			"name": "Ghostly hood",
+			"value": 300,
+			"bonuses": [0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0]
+		},
+		{
+			"id": 6110,
+			"name": "Ghostly gloves",
+			"value": 300,
+			"bonuses": [0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0]
+		},
+		{
+			"id": 6111,
+			"name": "Ghostly cloak",
+			"value": 300,
+			"bonuses": [0, 0, 0, 5, 0, 0, 0, 0, 5, 0, 0, 0]
+		},
+		{
+			"id": 6188,
+			"name": "Frog mask"
+		},
+		{
+			"id": 6524,
+			"name": "Toktz-ket-xil",
+			"weight": 3.4,
+			"value": 45000,
+			"flags": [true, false, true],
+			"childId": 6536,
+			"bonuses": [0, 0, 0, -12, -8, 40, 42, 38, 0, 65, 5, 0]
+		},
+		{
+			"id": 6528,
+			"name": "Tzhaar ket-om",
+			"weight": 3.6,
+			"value": 50000,
+			"flags": [true, false, true],
+			"childId": 6540,
+			"bonuses": [0, 0, 80, -4, 0, 0, 0, 0, 0, 0, 85, 0]
+		},
+		{
+			"id": 6529,
+			"name": "Tokkul",
+			"value": 1,
+			"flags": [false, true, false]
+		},
+		{
+			"id": 6536,
+			"name": "Toktz-ket-xil",
+			"parentId": 6524
+		},
+		{
+			"id": 6540,
+			"name": "Tzhaar ket-om",
+			"parentId": 6528
+		},
+		{
+			"id": 6568,
+			"name": "Obsidian cape",
+			"weight": 1.8,
+			"value": 60000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 0, 0]
+		},
+		{
+			"id": 6569,
+			"name": "Obsidian cape"
+		},
+		{
+			"id": 6583,
+			"name": "Ring of stone",
+			"value": 202000,
+			"flags": [true, false, true],
+			"disguise": 2626
+		},
+		{
+			"id": 6584,
+			"name": "Ring of stone"
+		},
+		{
+			"id": 6585,
+			"name": "Amulet of fury",
+			"weight": 1,
+			"value": 202000,
+			"flags": [true, false, true],
+			"bonuses": [10, 10, 10, 10, 10, 15, 15, 15, 15, 15, 8, 5]
+		},
+		{
+			"id": 6586,
+			"name": "Amulet of fury"
+		},
+		{
+			"id": 6570,
+			"name": "Fire cape",
+			"weight": 1.8,
+			"value": 60000,
+			"bonuses": [1, 1, 1, 1, 1, 11, 11, 11, 11, 11, 4, 2]
+		},
+		{
+			"id": 6605,
+			"name": "White sword",
+			"weight": 1.8,
+			"value": 624,
+			"flags": [true, false, true],
+			"bonuses": [14, 10, -2, 0, 0, 0, 2, 1, 0, 0, 12, 1]
+		},
+		{
+			"id": 6606,
+			"name": "White sword"
+		},
+		{
+			"id": 6607,
+			"name": "White longsword",
+			"weight": 1.8,
+			"value": 960,
+			"flags": [true, false, true],
+			"bonuses": [13, 18, -2, 0, 0, 0, 3, 2, 0, 0, 16, 1]
+		},
+		{
+			"id": 6608,
+			"name": "White longsword"
+		},
+		{
+			"id": 6735,
+			"name": "Warrior ring",
+			"value": 10000,
+			"flags": [true, false, true],
+			"bonuses": [0, 4, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0]
+		},
+		{
+			"id": 6736,
+			"name": "Warrior ring"
+		},
+		{
+			"id": 6737,
+			"name": "Berserker ring",
+			"value": 10000,
+			"flags": [true, false, true],
+			"bonuses": [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4, 0]
+		},
+		{
+			"id": 6738,
+			"name": "Berserker ring"
+		},
+		{
+			"id": 6739,
+			"name": "Dragon axe",
+			"weight": 1.3,
+			"value": 55000,
+			"flags": [true, false, true],
+			"bonuses": [-2, 38, 32, 0, 0, 0, 1, 0, 0, 0, 42, 0]
+		},
+		{
+			"id": 6740,
+			"name": "Dragon axe"
+		},
+		{
+			"id": 6870,
+			"name": "Red marionette"
+		},
+		{
+			"id": 6871,
+			"name": "Red marionette"
+		},
+		{
+			"id": 6872,
+			"name": "Red marionette"
+		},
+		{
+			"id": 6873,
+			"name": "Red marionette"
+		},
+		{
+			"id": 6874,
+			"name": "Red marionette"
+		},
+		{
+			"id": 6870,
+			"name": "Blue marionette"
+		},
+		{
+			"id": 6875,
+			"name": "Blue marionette"
+		},
+		{
+			"id": 6876,
+			"name": "Blue marionette"
+		},
+		{
+			"id": 6877,
+			"name": "Blue marionette"
+		},
+		{
+			"id": 6878,
+			"name": "Blue marionette"
+		},
+		{
+			"id": 6879,
+			"name": "Green marionette"
+		},
+		{
+			"id": 6880,
+			"name": "Green marionette"
+		},
+		{
+			"id": 6881,
+			"name": "Green marionette"
+		},
+		{
+			"id": 6882,
+			"name": "Green marionette"
+		},
+		{
+			"id": 6883,
+			"name": "Peach",
+			"flags": [false, false, true]
+		},
+		{
+			"id": 7158,
+			"name": "Dragon 2h sword",
+			"weight": 3,
+			"value": 220000,
+			"flags": [true, false, true],
+			"childId": 7407,
+			"bonuses": [-4, 92, 80, -4, 0, 0, 0, 0, 0, -1, 93, 0]
+		},
+		{
+			"id": 7159,
+			"name": "Slayer boots",
+			"weight": 1,
+			"value": 200,
+			"bonuses": [0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0]
+		},
+		{
+			"id": 7208,
+			"name": "Wild pie",
+			"value": 180,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 7209,
+			"name": "Wild pie"
+		},
+		{
+			"id": 7210,
+			"name": "Half a wild pie",
+			"value": 90,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 7211,
+			"name": "Half a wild pie"
+		},
+		{
+			"id": 7404,
+			"name": "Red logs"
+		},
+		{
+			"id": 7405,
+			"name": "Blue logs"
+		},
+		{
+			"id": 7406,
+			"name": "Green logs"
+		},
+		{
+			"id": 7407,
+			"name": "Dragon 2h sword",
+			"parentId": 7158
+		},
+		{
+			"id": 7408,
+			"name": "Draynor skull",
+			"destroy": ["I found this in a grave at Draynor Manor."]
+		},
+		{
+			"id": 7409,
+			"name": "Magic secateurs",
+			"destroy": ["Take more ingredients to the nature spirit to get another pair."]
+		},
+		{
+			"id": 7410,
+			"name": "Queen's secateurs",
+			"destroy": ["I can always find another tanglefoot if I need more."]
+		},
+		{
+			"id": 7411,
+			"name": "Symptoms list",
+			"destroy": ["Hopefully Fairy Nuff made a copy of this list."]
+		},
+		{
+			"id": 7413,
+			"name": "Bird nest"
+		},
+		{
+			"id": 7414,
+			"name": "Paddle",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 7415,
+			"name": "Paddle"
+		},
+		{
+			"id": 7451,
+			"name": "Cleaver",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 7452,
+			"name": "Cleaver"
+		},
+		{
+			"id": 7453,
+			"name": "Gloves",
+			"weight": 0.2,
+			"value": 65,
+			"bonuses": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+		},
+		{
+			"id": 7454,
+			"name": "Gloves",
+			"weight": 0.2,
+			"value": 65,
+			"bonuses": [2, 2, 2, 1, 2, 2, 2, 2, 1, 2, 2, 0]
+		},
+		{
+			"id": 7455,
+			"name": "Gloves",
+			"weight": 0.2,
+			"value": 250,
+			"bonuses": [3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 0]
+		},
+		{
+			"id": 7456,
+			"name": "Gloves",
+			"weight": 0.2,
+			"value": 500,
+			"bonuses": [4, 4, 4, 2, 4, 4, 4, 4, 2, 4, 4, 0]
+		},
+		{
+			"id": 7457,
+			"name": "Gloves",
+			"weight": 0.2,
+			"value": 1000,
+			"bonuses": [5, 5, 5, 3, 5, 5, 5, 5, 3, 5, 5, 0]
+		},
+		{
+			"id": 7458,
+			"name": "Gloves",
+			"weight": 0.2,
+			"value": 1500,
+			"bonuses": [6, 6, 6, 3, 6, 6, 6, 6, 3, 6, 6, 0]
+		},
+		{
+			"id": 7459,
+			"name": "Gloves",
+			"weight": 0.2,
+			"value": 2500,
+			"bonuses": [7, 7, 7, 4, 7, 7, 7, 7, 4, 7, 7, 0]
+		},
+		{
+			"id": 7460,
+			"name": "Gloves",
+			"weight": 0.2,
+			"value": 5000,
+			"bonuses": [8, 8, 8, 4, 8, 8, 8, 8, 4, 8, 8, 0]
+		},
+		{
+			"id": 7461,
+			"name": "Gloves",
+			"weight": 0.2,
+			"value": 100000,
+			"bonuses": [9, 9, 9, 5, 9, 9, 9, 9, 5, 9, 9, 0]
+		},
+		{
+			"id": 7462,
+			"name": "Gloves",
+			"weight": 0.2,
+			"value": 100000,
+			"bonuses": [12, 12, 12, 6, 12, 12, 12, 12, 6, 12, 12, 0]
+		},
+		{
+			"id": 7927,
+			"name": "Easter ring",
+			"value": 1,
+			"flags": [false, false, false],
+			"disguises": [3689, 3690, 3691, 3692, 3693, 3694]
+		},
+		{
+			"id": 7946,
+			"name": "Monkfish",
+			"weight": 0.4,
+			"value": 230,
+			"flags": [true, false, true]
+		},
+		{
+			"id": 7947,
+			"name": "Monkfish"
+		},
+		{
+			"id": 7948,
+			"name": "Burnt monkfish",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 7949,
+			"name": "Burnt monkfish"
+		},
+		{
+			"id": 7950,
+			"name": "Bone seeds"
+		},
+		{
+			"id": 7951,
+			"name": "Herman's book"
+		},
+		{
+			"id": 7952,
+			"name": "Axe handle",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 7953,
+			"name": "Axe handle"
+		},
+		{
+			"id": 7954,
+			"name": "Burnt shrimp",
+			"flags": [true, false, true]
+		},
+		{
+			"id": 7955,
+			"name": "Burnt shrimp"
+		}
+	]
+}

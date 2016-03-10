@@ -1,0 +1,145 @@
+Button		Name						0, 1, 2, 3...
+
+COMBAT
+43			Combat styles				First, Second, Third, (if exists) Fourth
+
+PRAYER
+83			Thick skin					Off, On
+84			Burst of Strength			Off, On
+85			Clarity of Thought			Off, On
+86			Rock Skin					Off, On
+87			Superhuman Strength			Off, On
+88			Improved Reflexes			Off, On
+89			Rapid Restore				Off, On
+90			Rapid Heal					Off, On
+91			Protect Items				Off, On
+92			Steel Skin					Off, On
+93			Ultimate Strength			Off, On
+94			Incredible Reflexes			Off, On
+95			Protect from Magic			Off, On
+96			Protect from Missiles		Off, On
+97			Protect from Melee			Off, On
+98			Retribution					Off, On
+99			Redemption					Off, On
+100			Smite						Off, On
+
+BANK
+115			Withdraw mode				
+304			Rearrange mode
+
+SETTINGS
+166			Brightness					N/A, V.Dark, Dark, Normal, Bright, V.Bright
+170			Mouse Buttons				Two, One
+171			Chat Effects				On, Off
+287			Split Private Chat			On, Off
+427			Accept Aid					Yes, No
+168			Music						4, 3, 2, 1, 0
+169			Effects						4, 3, 2, 1, 0
+
+172			Auto Retaliate				Off, On
+173			Move speed					Walk, Run
+
+
+UNKNOWN
+18			UNKNOWN
+19			UNKNOWN
+25			UNKNOWN
+44			UNKNOWN
+75			UNKNOWN
+101			UNKNOWN
+102			UNKNOWN
+103			UNKNOWN
+104			UNKNOWN
+105			UNKNOWN
+106			UNKNOWN
+108			UNKNOWN
+115			UNKNOWN
+143			UNKNOWN
+153			UNKNOWN
+156			UNKNOWN
+157			UNKNOWN
+158			UNKNOWN
+167			UNKNOWN
+174			UNKNOWN
+203			UNKNOWN
+210			UNKNOWN
+211			UNKNOWN
+261			UNKNOWN
+262			UNKNOWN
+263			UNKNOWN
+264			UNKNOWN
+265			UNKNOWN
+174			UNKNOWN
+174			UNKNOWN
+174			UNKNOWN
+174			UNKNOWN
+174			UNKNOWN
+174			UNKNOWN
+174			UNKNOWN
+
+DUELING
+SetClientConfig(286, 0) = Nothing
+SetClientConfig(286, 1) = No Forfeit
+SetClientConfig(286, 2) = No Movement
+SetClientConfig(286, 3) = No Forfeit + No Movement
+SetClientConfig(286, 16) = No Ranged
+SetClientConfig(286, 17) = No Ranged + No Forfeit
+SetClientConfig(286, 18) = No Ranged + No Movement
+SetClientConfig(286, 19) = No Ranged + No Forfeit + No Movement
+SetClientConfig(286, 17) = No Ranged + No Forfeit
+SetClientConfig(286, 32) = No Melee
+SetClientConfig(286, 33) = No Melee + No Forfeit
+SetClientConfig(286, 34) = No Melee + No Movement
+SetClientConfig(286, 35) = No Melee + No Forfeit + No Movement
+SetClientConfig(286, 48) = No Ranged + No Melee
+SetClientConfig(286, 49) = No Ranged + No Melee + No Forfeit
+SetClientConfig(286, 50) = No Ranged + No Melee + No Movement
+SetClientConfig(286, 51) = No Ranged + No Melee + No Movement + No Forfeit
+SetClientConfig(286, 64) = No Magic
+SetClientConfig(286, 65) = No Magic + No Forfeit
+SetClientConfig(286, 66) = No Magic + No Movement
+SetClientConfig(286, 67) = No Magic + No Forfeit + No Movement
+SetClientConfig(286, 80) = No Magic + No Ranged
+SetClientConfig(286, 81) = No Magic + No Ranged + No Forfeit
+SetClientConfig(286, 82) = No Magic + No Ranged + No Movement
+SetClientConfig(286, 80) = No Magic + No Ranged + No Forfeit + No Movement
+SetClientConfig(286, 96) = No Melee + No Magic
+SetClientConfig(286, 97) = No Melee + No Magic + No Forfeit
+SetClientConfig(286, 98) = No Melee + No Magic + No Movement
+SetClientConfig(286, 99) = No Melee + No Magic + No Forfeit + No Movement
+SetClientConfig(286, 112) = No Ranged + No Melee + No Magic
+SetClientConfig(286, 113) = No Ranged + No Melee + No Magic + No Forfeit
+SetClientConfig(286, 114) = No Ranged + No Melee + No Magic + no Movement
+SetClientConfig(286, 115) = No Ranged + No Melee + No Magic + No Forfeit + No Movement
+SetClientConfig(286, 128) = No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 129) = No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 130) = No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 131) = No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 144) = No Ranged + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 145) = No Ranged + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 147) = No Ranged + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 148) = No Ranged + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 160) = No Melee + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 161) = No Melee + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 162) = No Melee + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 163) = No Melee + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 176) = No Ranged + No Melee + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 177) = No Ranged + No Melee + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 178) = No Ranged + No Melee + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 179) = No Ranged + No Melee + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 192) = No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 193) = No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 194) = No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 195) = No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 208) = No Ranged + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 209) = No Ranged + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 210) = No Ranged + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 211) = No Ranged + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 224) = No Melee + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 225) = No Melee + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 226) = No Melee + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 227) = No Melee + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 240) = No Ranged + No Melee + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 241) = No Ranged + No Melee + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + Obstacles
+SetClientConfig(286, 242) = No Ranged + No Melee + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Drinks + No Food + No Prayer + No Movement + Obstacles
+SetClientConfig(286, 243) = No Ranged + No Melee + No Magic + No Equipment(ALL) + No Sp.Atk + Fun Weapons + No Forfeit + No Drinks + No Food + No Prayer + No Movement + Obstacles

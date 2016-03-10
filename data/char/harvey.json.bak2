@@ -1,0 +1,65 @@
+{
+	"user": "harvey",
+	"pass": "c479e7d98cbf375ffb539d0074011b36",
+	"lastIP": "127.0.0.1",
+	"rights": 0,
+	"posX": 3216,
+	"posY": 3425,
+	"height": 0,
+	"character": {
+		"questPoints": 0,
+		"running": false,
+		"runEnergy": 100,
+		"specialEnergy": 0,
+		"autoRetaliate": true,
+		"combatStyle": 0,
+		"magicBook": 1151,
+		"looks": [0,10,18,26,33,36,42],
+		"colors": [0,0,0,0,0],
+		"gender": "male"
+	},
+	"settings": {
+		"brightness": 2,
+		"singleMouseButton": false,
+		"chatEffects": true,
+		"chatPrivacy": [0,0,0],
+		"splitPrivateChat": false,
+		"acceptAid": false,
+		"volumeMusic": 0,
+		"volumeEffects": 0,
+		"musicPlayer": {
+			"mode": "auto",
+			"loop": false
+		}
+	},
+	"skills": [
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[10,1155.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0],
+		[1,0.0]
+	],
+	"equip": [],
+	"inv": [],
+	"bank": [],
+	"friends": [
+		527375
+	],
+	"ignores": []
+}

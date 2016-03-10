@@ -1,0 +1,5 @@
+gold kiteshield: 5440
+gold sword: 3200
+gold helm: 1920
+gold chest: 12800
+gold legs: 6400

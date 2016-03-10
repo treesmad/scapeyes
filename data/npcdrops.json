@@ -1,0 +1,28 @@
+{
+	"drops": [
+		{
+			"id": [
+				2, 3, 4, 6
+            ],
+			"items": [
+				{
+					"id": 586,
+					"amount": 1
+				},
+				{
+					"id": 995,
+					"amount": 1000,
+					"chance": 50
+				},
+				{
+					"id": 386,
+					"minAmount": 60,
+					"maxAmount": 5000,
+					"chance": 2000
+				},
+			]
+			"persist": [
+			]
+		}
+	]
+}

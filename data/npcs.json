@@ -1,0 +1,27 @@
+{
+	"npcs": [
+		{
+			"id": 0,
+			"name": "Hans"
+		},
+		{
+			"id": 1,
+			"name": "Man",
+			"health": 10,
+			"damage": 2,
+			"style": "Melee"
+		},
+		{
+			"id": 2,
+			"name": "Man",
+			"health": 10,
+			"damage": 2,
+			"style": "Melee"
+		}
+	
+	
+	
+	
+	
+	]
+}
