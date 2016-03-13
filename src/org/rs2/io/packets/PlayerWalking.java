@@ -32,7 +32,7 @@ public class PlayerWalking implements Packet {
 			//p.trade.decline(Engine.players[p.tradeId]);
 		}
 		if (p.interfaceId == 7424 || p.interfaceId == 14924) {
-			p.bankPin.cancel();
+			//p.bankPin.cancel();
 		}
 		p.resetActionTask();
 		p.frames.closeAllInterfaces();

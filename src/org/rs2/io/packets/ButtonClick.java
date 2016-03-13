@@ -30,7 +30,6 @@ public class ButtonClick implements Packet {
 		}
 		p.prayer.activate(buttonId);
 		p.magic.cast(buttonId);
-		p.bankPin.handleButton(buttonId);
 		p.skillGuide.handleButton(buttonId);
 
 		switch (buttonId) {

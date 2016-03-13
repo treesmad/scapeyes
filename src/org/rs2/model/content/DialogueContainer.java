@@ -7,6 +7,7 @@ public class DialogueContainer {
 	 * Player this class belongs to.
 	 */
 	private Player p;
+
 	/**
 	 * Multiple choice menu that is currently being displayed.
 	 */
@@ -66,7 +67,7 @@ public class DialogueContainer {
 		this.p = p;
 	}
 	
-	public void send(DialogueContainer d) {
+	public void send(Dialogue d) {
 		
 	}
 

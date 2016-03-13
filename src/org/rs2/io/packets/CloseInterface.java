@@ -15,7 +15,7 @@ public class CloseInterface implements Packet {
 			p.trade.decline();
 		}
 		if (p.interfaceId == 7424) {
-			p.bankPin.cancel();
+			//p.bankPin.cancel();
 		}
 		p.frames.closeAllInterfaces();
 	}

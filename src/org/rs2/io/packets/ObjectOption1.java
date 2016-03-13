@@ -2,6 +2,8 @@ package org.rs2.io.packets;
 
 import org.rs2.Engine;
 import org.rs2.io.Packet;
+import org.rs2.model.content.DialogueOption;
+import org.rs2.model.content.DialogueOption.DialogueButton;
 import org.rs2.model.players.Player;
 import org.rs2.task.Task;
 import org.rs2.util.Skills;
@@ -53,7 +55,7 @@ public class ObjectOption1 implements Packet {
 			return;
 		}
 		switch (objectId) {
-			case 299:
+			case 299:	// Dummies
 				if (p.lastDummyHit == 0 || Engine.currentTicks() - p.lastDummyHit >= 6) {
 					p.addSkillXP(Skills.DEFENCE,
 						240 * Math.pow(p.getLevelForXP(Skills.DEFENCE), 0.6));
@@ -63,10 +65,7 @@ public class ObjectOption1 implements Packet {
 				}
 				break;
 
-			/**
-			 * Crates
-			 */
-			case 354:
+			case 354:	// Crates
 			case 355:
 			case 356:
 			case 357:
@@ -78,10 +77,7 @@ public class ObjectOption1 implements Packet {
 				p.frames.sendMessage("You search the crate but find nothing.");
 				break;
 
-			/**
-			 * Trees.
-			 */
-			case 1276:
+			case 1276:	// Trees
 			case 1278:
 			case 1286:
 			case 1281:
@@ -90,34 +86,29 @@ public class ObjectOption1 implements Packet {
 				//p.woodcutting.start(objectId, objectX, objectY, objectRot);
 				break;
 
-			/**
-			 * Rocks/
-			 */
-			case 2090:
+			case 2090:	// Rocks
 			case 2094:
 				//p.mining.start(objectId, objectX, objectY, objectRot);
 				break;
 
-			/**
-			 * Bank booths
-			 */
-			case 2213:
-				/**
-				 * Bank chests
-				 */
-			case 3192:
+			case 2213:	// Bank booths
+			case 3192:	// Bank chests
 			case 3193:
 			case 11758:
-				/*p.dialogue.sendOptions(new DialogueEvent().add(
-					new DialogueButton("I'd like to access my bank account, please.") {
-						public void click() {
+				p.dialogue.send(new DialogueOption()
+					.add(new DialogueButton("I'd like to access my bank account, please.") {
+						public void action() {
 							p.frames.sendBank();
 						}
-					}).add(new DialogueButton("I'd like to check my PIN settings.") {
-					public void click() {
-						p.bankPin.showSettings();
-					}
-				}));*/
+					})
+					.add(new DialogueButton("I'd like to check my PIN settings.", true) {
+						public void action() {
+							p.frames.sendMessage("Coming soon (tm)");
+						}
+					})
+				);
+				
+					
 				break;
 
 			case 4483:

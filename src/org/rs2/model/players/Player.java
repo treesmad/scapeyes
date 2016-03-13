@@ -7,7 +7,6 @@ import java.util.LinkedList;
 import org.rs2.Engine;
 import org.rs2.Server;
 import org.rs2.io.Frames;
-import org.rs2.model.content.BankPin;
 import org.rs2.model.content.ButtonManager;
 import org.rs2.model.content.DialogueContainer;
 import org.rs2.model.content.SkillGuide;
@@ -51,10 +50,6 @@ public class Player {
 	 * Actions currently assigned to the chatbox options.
 	 */
 	public ButtonManager buttons = new ButtonManager(this);
-	/**
-	 * Player bank pin.
-	 */
-	public BankPin bankPin = new BankPin(this);
 	/**
 	 * Skill guides.
 	 */
